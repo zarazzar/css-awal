@@ -1,0 +1,55 @@
+h1
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+}
+h2
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: #777733;
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+body
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aqua;
+    color: #777733;
+}
+table
+{
+    border: 1px solid red;
+    margin-left: auto;
+    margin-right: auto; 
+}
+tr:hover
+{
+    background: #ffaaff
+}
+th {
+    padding : 2px 6px;
+    border: 1px solid #0088ff;
+    background: #0088ff;
+    color: white;
+}
+td
+{
+    padding: 2px 6px; border: 1px solid #0088ff;
+}
+*
+{
+    padding: 0;
+    padding: 0;
+}
+img
+{
+    max-width: 20%;
+    height: 200;
+}
+ul,ol
+{
+    list-style-type: none;
+}
